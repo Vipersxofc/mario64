@@ -1,0 +1,50 @@
+{
+	"storyName": "mauricioteponeen4",
+	"difficulties": "hard,nomechanics",
+	"hideFreeplay": false,
+	"weekBackground": "Mauriciodemo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Mario-Time",
+			"marianogod",
+			[
+				215,
+				235,
+				255
+			]
+		],
+		[
+			"fly",
+			"marianovuelavuela",
+			[
+				215,
+				235,
+				255
+			]
+		],
+		[
+			"shiny-metal",
+			"Metal_Mario_Icons",
+			[
+				215,
+				235,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "mauriciodemo",
+	"hiddenUntilUnlocked": false
+}
