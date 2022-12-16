@@ -1,0 +1,206 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				120
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 25,
+			"name": "Fly_BoyFriend FailRight",
+			"indices": [
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				120
+			],
+			"anim": "singDOWNmiss",
+			"fps": 25,
+			"name": "Fly_BoyFriend FailRight",
+			"indices": [
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				120
+			],
+			"anim": "singUPmiss",
+			"fps": 25,
+			"name": "Fly_BoyFriend FailLeft",
+			"indices": [
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				120
+			],
+			"anim": "singLEFTmiss",
+			"fps": 25,
+			"name": "Fly_BoyFriend Failleft",
+			"indices": [
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				120
+			],
+			"anim": "idle",
+			"fps": 25,
+			"name": "Fly_BoyFriend Indle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				120
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"fps": 25,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Fly_BoyFriend LeftPose"
+		},
+		{
+			"offsets": [
+				0,
+				120
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"fps": 25,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Fly_BoyFriend RightPose"
+		},
+		{
+			"offsets": [
+				0,
+				120
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"fps": 25,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Fly_BoyFriend UpPose"
+		},
+		{
+			"offsets": [
+				0,
+				120
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"fps": 25,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Fly_BoyFriend DownPose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Fly_BoyFriend",
+	"position": [
+		-140,
+		180
+	],
+	"healthicon": "bfvuela",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		176,
+		255
+	],
+	"camera_position": [
+		-190,
+		110
+	],
+	"sing_duration": 7,
+	"scale": 0.7
+}

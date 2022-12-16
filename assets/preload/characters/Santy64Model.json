@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				70,
+				120
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Santy LeftPose"
+		},
+		{
+			"offsets": [
+				0,
+				25
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Santy DownPose"
+		},
+		{
+			"offsets": [
+				0,
+				190
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Santy UpPose"
+		},
+		{
+			"offsets": [
+				-50,
+				120
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Santy RightPose"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				120
+			],
+			"anim": "idle",
+			"fps": 25,
+			"name": "Santy Indle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Santy_Assets",
+	"position": [
+		-140,
+		180
+	],
+	"healthicon": "santy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		30
+	],
+	"sing_duration": 6,
+	"scale": 0.7
+}

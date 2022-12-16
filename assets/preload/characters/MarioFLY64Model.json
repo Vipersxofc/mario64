@@ -1,0 +1,130 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				120
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singDOWN",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "FlyMario DownPose"
+		},
+		{
+			"offsets": [
+				0,
+				120
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"fps": 25,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "FlyMario LeftPose"
+		},
+		{
+			"offsets": [
+				0,
+				120
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"fps": 25,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "FlyMario RightPose"
+		},
+		{
+			"offsets": [
+				0,
+				120
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"fps": 25,
+			"anim": "singUP",
+			"loop": false,
+			"name": "FlyMario UpPose"
+		},
+		{
+			"offsets": [
+				0,
+				120
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			],
+			"fps": 25,
+			"anim": "idle",
+			"loop": true,
+			"name": "FlyMario Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FlyMario_Assets",
+	"position": [
+		-140,
+		180
+	],
+	"healthicon": "marianovuelavuela",
+	"flip_x": false,
+	"healthbar_colors": [
+		231,
+		16,
+		8
+	],
+	"camera_position": [
+		-110,
+		90
+	],
+	"sing_duration": 7,
+	"scale": 0.7
+}

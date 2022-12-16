@@ -1,0 +1,251 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				120
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singLEFT",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				9,
+				9,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			],
+			"name": "BoyFriendGlamMixNormal LeftPose"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				120
+			],
+			"anim": "singRIGHT",
+			"fps": 25,
+			"name": "BoyFriendGlamMixNormal RightPose",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				9,
+				9,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				120
+			],
+			"anim": "singUP",
+			"fps": 25,
+			"name": "BoyFriendGlamMixNormal UpPose",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				9,
+				9,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				120
+			],
+			"anim": "singDOWN",
+			"fps": 25,
+			"name": "BoyFriendGlamMixNormal DownPose",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				120
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 25,
+			"name": "BoyFriendGlamMixNormal FailRight",
+			"indices": [
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				120
+			],
+			"anim": "singDOWNmiss",
+			"fps": 25,
+			"name": "BoyFriendGlamMixNormal FailDown",
+			"indices": [
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				120
+			],
+			"anim": "singUPmiss",
+			"fps": 25,
+			"name": "BoyFriendGlamMixNormal FailUp",
+			"indices": [
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				120
+			],
+			"anim": "singLEFTmiss",
+			"fps": 25,
+			"name": "BoyFriendGlamMixNormal FailLeft",
+			"indices": [
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				120
+			],
+			"anim": "idle",
+			"fps": 25,
+			"name": "BoyFriendGlamMixNormal Indle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BoyFriendGlamMixNormal",
+	"position": [
+		-140,
+		180
+	],
+	"healthicon": "elbichosiu",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-230,
+		30
+	],
+	"sing_duration": 10,
+	"scale": 0.6
+}

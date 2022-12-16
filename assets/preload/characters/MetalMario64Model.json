@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				190
+			],
+			"fps": 25,
+			"anim": "idle",
+			"indices": [],
+			"name": "Metal_Mario Indle"
+		},
+		{
+			"offsets": [
+				0,
+				190
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singLEFT",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				9,
+				9,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			],
+			"name": "Mario LeftPose"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				190
+			],
+			"anim": "singRIGHT",
+			"fps": 25,
+			"name": "Mario RightPose",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				9,
+				9,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				190
+			],
+			"anim": "singUP",
+			"fps": 25,
+			"name": "Metal_Mario UpPose",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				9,
+				9,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				190
+			],
+			"anim": "singDOWN",
+			"fps": 25,
+			"name": "Metal_Mario DownPose",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Metal_Mario_Assets",
+	"position": [
+		-140,
+		180
+	],
+	"healthicon": "Metal_mario_icons",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		10,
+		-100
+	],
+	"sing_duration": 10,
+	"scale": 0.8
+}
